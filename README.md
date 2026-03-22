@@ -1,16 +1,16 @@
 a version of Pipsi-HSR with some of the old features
 
 Current Features:
-< Player:
+> Player:
 * Noclip
 * Walk Speed
 
-< World:
+> World:
 * Chest Teleport
 * Quest Teleport
 * Dumb Enemies
 
-< Visuals:
+> Visuals:
 * Peeking
 * ESP
 
