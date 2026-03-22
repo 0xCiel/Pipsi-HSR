@@ -15,3 +15,7 @@ Current Features:
 * ESP
 
 I'll be adding more features when I'm not lazy
+
+
+
+https://discord.gg/alyaa
