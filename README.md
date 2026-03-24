@@ -11,6 +11,7 @@ Current Features:
 * Dumb Enemies
 * Global Speed
 * Battle Speed
+* Skip Cutscene
 
 > Visuals:
 * Peeking
