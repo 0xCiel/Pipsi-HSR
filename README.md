@@ -14,6 +14,8 @@ Current Features:
 * Global Speed
 * Battle Speed
 * Skip Cutscene
+* Auto Puzzle
+* Unlock Auto Battle
 
 > Visuals:
 * Peeking
