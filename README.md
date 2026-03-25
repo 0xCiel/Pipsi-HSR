@@ -1,3 +1,5 @@
+Global Version Only
+
 a version of Pipsi-HSR with some of the old features 
 
 Current Features:
