@@ -16,6 +16,7 @@ Current Features:
 * Skip Cutscene
 * Auto Puzzle
 * Unlock Auto Battle
+* Mob Vacuum
 
 > Visuals:
 * Peeking
