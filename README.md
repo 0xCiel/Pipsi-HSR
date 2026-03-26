@@ -1,4 +1,4 @@
-Global Version Only
+Global/CN
 
 a version of Pipsi-HSR with some of the old features 
 
