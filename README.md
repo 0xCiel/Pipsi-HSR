@@ -19,6 +19,7 @@ Current Features:
 * Mob Vacuum
 
 > Visuals:
+* Max Eidolon
 * Peeking
 * ESP
 
