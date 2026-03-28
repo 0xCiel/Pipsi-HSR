@@ -1,3 +1,8 @@
+
+
+this has been moved to https://github.com/0xCiel/Alya-StarRail
+
+
 Global/CN
 
 a version of Pipsi-HSR with some of the old features 
